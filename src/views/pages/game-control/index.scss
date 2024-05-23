@@ -1,0 +1,47 @@
+.accountAdmin{
+  padding: 20px
+}
+.gameRecordTypeUp{
+  padding: 5px;
+  border-radius: 100%;
+  border-color: green ;
+  color: green ;
+  border: 1px solid;
+  height: 28px;
+  width: 28px;
+  text-align: center;
+
+}
+
+.gameRecordTypeDonw{
+  padding: 5px;
+  border-radius:  100%;
+  border-color: red ;
+  color: red ;
+  border: 1px solid;
+  height: 28px;
+  width: 28px;
+  text-align: center;
+}
+
+.gameRecordTypeOdd{
+  padding: 5px;
+  border-radius:  100%;
+  border-color: purple ;
+  color:purple;
+  border: 1px solid;
+  height: 28px;
+  width: 28px;
+  text-align: center;
+}
+
+.gameRecordTypeEven{
+  padding: 5px;
+  border-radius:  100%;
+  border-color: brown ;
+  color:brown;
+  height: 28px;
+  width: 28px;
+  text-align: center;
+  border: 1px solid;
+}
